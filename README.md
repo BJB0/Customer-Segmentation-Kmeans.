@@ -57,3 +57,6 @@ Segmented customers into distinct groups based on income and spending behavior.
 Visualized clusters using scatter plots.
 
 Derived actionable insights to support targeted marketing.
+
+
+# Dataset file: https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
