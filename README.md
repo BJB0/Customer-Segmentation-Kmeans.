@@ -1,5 +1,7 @@
 # Customer Segmentation using K-Means Clustering
-# 📌 Project Overview
+<br>
+
+**📌 Project Overview**
 
 Customer segmentation is a crucial step for businesses to understand their customer base and tailor marketing strategies accordingly. In this project, I implemented **K-Means clustering**, an unsupervised machine learning algorithm, to segment customers into distinct groups based on their purchasing behavior and demographic information.
 
@@ -13,7 +15,9 @@ Improve customer retention.
 
 Increase overall profitability.
 
-# ⚙️ Tech Stack
+<br>
+
+**⚙️ Tech Stack**
 
 Language: Python
 
@@ -21,7 +25,9 @@ Libraries: NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn
 
 Algorithm: K-Means Clustering
 
-# 📊 Dataset
+<br>
+
+**📊 Dataset**
 
 The dataset contains customer details such as:
 
@@ -35,8 +41,9 @@ Annual Income
 
 Spending Score
 
+<br>
 
-# 🚀 Implementation Steps
+**🚀 Implementation Steps**
 
 Data Preprocessing – Cleaning and preparing the dataset.
 
@@ -50,7 +57,9 @@ Customer Segmentation – Grouping customers and visualizing clusters.
 
 Insights & Recommendations – Interpreting clusters for business strategy.
 
-# 📈 Results
+<br>
+
+**📈 Results**
 
 Segmented customers into distinct groups based on income and spending behavior.
 
@@ -58,5 +67,6 @@ Visualized clusters using scatter plots.
 
 Derived actionable insights to support targeted marketing.
 
+<br>
 
-# Dataset file: https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
+**Dataset file**: https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
