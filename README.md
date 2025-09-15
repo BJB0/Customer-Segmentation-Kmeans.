@@ -7,57 +7,68 @@ Customer segmentation is a crucial step for businesses to understand their custo
 
 This helps businesses:
 
-Identify high-value customers.
+-Identify high-value customers.
 
-Personalize marketing campaigns.
+-Personalize marketing campaigns.
 
-Improve customer retention.
+-Improve customer retention.
 
-Increase overall profitability.
+-Increase overall profitability.
 
 <br>
+
+---
 
 **⚙️ Tech Stack**
 
-Language: Python
+-Language: Python
 
-Libraries: NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn
+-Libraries: NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn
 
-Algorithm: K-Means Clustering
+-Algorithm: K-Means Clustering
 
 <br>
+
+---
 
 **📊 Dataset**
 
 The dataset contains customer details such as:
 
-Customer ID
+-Customer ID
 
-Age
+-Age
 
-Gender
+-Gender
 
-Annual Income
+-Annual Income
 
-Spending Score
+-Spending Score
+
+
+**Dataset file**: https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
 
 <br>
+
+---
 
 **🚀 Implementation Steps**
 
-Data Preprocessing – Cleaning and preparing the dataset.
+1.Data Preprocessing – Cleaning and preparing the dataset.
 
-Exploratory Data Analysis (EDA) – Visualizing distributions and relationships.
+2.Exploratory Data Analysis (EDA) – Visualizing distributions and relationships.
 
-Feature Selection & Scaling – Choosing relevant features and applying normalization.
+3.Feature Selection & Scaling – Choosing relevant features and applying normalization.
 
-Applying K-Means Algorithm – Using the Elbow Method to determine optimal clusters.
+4.Applying K-Means Algorithm – Using the Elbow Method to determine optimal clusters.
 
-Customer Segmentation – Grouping customers and visualizing clusters.
+5.Customer Segmentation – Grouping customers and visualizing clusters.
 
-Insights & Recommendations – Interpreting clusters for business strategy.
+6.Insights & Recommendations – Interpreting clusters for business strategy.
 
 <br>
+
+---
 
 **📈 Results**
 
@@ -69,4 +80,5 @@ Derived actionable insights to support targeted marketing.
 
 <br>
 
-**Dataset file**: https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
+---
+
