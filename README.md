@@ -3,7 +3,7 @@
 
 **📌 Project Overview**
 
-Customer segmentation is a crucial step for businesses to understand their customer base and tailor marketing strategies accordingly. In this project, I implemented **K-Means clustering**, an unsupervised machine learning algorithm, to segment customers into distinct groups based on their purchasing behavior and demographic information.
+Customer segmentation is a crucial step for businesses to understand their customer base and tailor marketing strategies accordingly. In this project, I implemented **K-Means clustering**, an unsupervised machine learning algorithm,which uses **Pattern clustering** method to segment customers into distinct groups based on their purchasing behavior and demographic information.
 
 This helps businesses:
 
