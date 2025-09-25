@@ -78,11 +78,11 @@ The dataset contains customer details such as:
 
 
 
-Segmented customers into distinct groups based on income and spending behavior.
+-Segmented customers into distinct groups based on income and spending behavior.
 
-Visualized clusters using scatter plots.
+-Visualized clusters using scatter plots.
 
-Derived actionable insights to support targeted marketing.
+-Derived actionable insights to support targeted marketing.
 
 <br>
 
