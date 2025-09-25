@@ -72,6 +72,12 @@ The dataset contains customer details such as:
 
 **📈 Results**
 
+<img width="705" height="710" alt="download (26)" src="https://github.com/user-attachments/assets/773b0ab3-6586-418b-a2c5-a9f37cacf028" />
+
+<br>
+
+
+
 Segmented customers into distinct groups based on income and spending behavior.
 
 Visualized clusters using scatter plots.
